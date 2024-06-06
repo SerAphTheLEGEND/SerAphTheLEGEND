@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de Luiz (Seraph) 🪽
 
  <div>
-   <a href="https://github.com/LuizMiguel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguel&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Luizmiguel">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizmiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizmiguel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
